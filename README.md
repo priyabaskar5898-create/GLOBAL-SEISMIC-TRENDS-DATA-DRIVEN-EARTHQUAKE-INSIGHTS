@@ -17,13 +17,6 @@ This project analyzes worldwide earthquake data collected from the USGS Earthqua
 * MySQL
 * Streamlit
 
-## Project Workflow
-1. Retrieve earthquake data from the USGS API
-2. Clean and preprocess the dataset
-3. Store data in MySQL
-4. Perform SQL analysis
-5. Build interactive dashboards in Streamlit
-
 ## Outcomes
 * Identified global seismic trends
 * Analyzed earthquake-prone regions
